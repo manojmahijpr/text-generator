@@ -1,0 +1,15 @@
+.controlpanel {
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+
+  .viewpanel {
+    margin-left: 10px;
+    top: 20px;
+    padding: 10px 0;
+    background: #eee;
+  }
